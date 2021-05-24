@@ -6,7 +6,7 @@ public class Happy {
 		
 		System.out.println("left ...");
 		System.out.println("right ...");
-		//再提一遍
+		
 	}
 	
 }
