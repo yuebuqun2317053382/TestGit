@@ -6,6 +6,8 @@ public class Happy {
 		
 		System.out.println("right ...");
 		
+		System.out.println("hot fix ...");
+		
 	}
 	
 }
